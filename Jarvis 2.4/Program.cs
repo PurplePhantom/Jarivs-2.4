@@ -11,6 +11,30 @@ namespace Jarvis_2._0
     class Program
     {
 
+        public void StartTimer1(int dueTime)
+        {
+            Timer t = new Timer(new TimerCallback(TimerProc1));
+            t.Change(dueTime, 0);
+
+        }
+        private void TimerProc1(object state)
+         {
+             Timer t = (Timer)state;
+             t.Dispose();
+             Console.WriteLine("The timer callback 1 executes");
+         }
+        private void TimerProc2(object state)
+        {
+            Timer t = (Timer)state;
+            t.Dispose();
+            Console.WriteLine("The timer callback 2 executes");
+        }
+        public void StartTimer2(int dueTime)
+         {
+             Timer t = new Timer(new TimerCallback(TimerProc2));
+             t.Change(dueTime, 0);
+         }
+
         ///making a void that will take the impute of a statment then it will speak this statment and then write it and then a impute to a thread.sleep line to pause the program                                          ///synth,statment,int
         ///synth diclares the spech synthisizer that should beused to speak statment
         ///statment is a line that will writen and spoke 
@@ -53,6 +77,9 @@ namespace Jarvis_2._0
         }
         static void Main()
         {
+            Program p = new Program();
+            p.StartTimer1(1000);
+            p.StartTimer2(2000);
             writeAndWait("Getting albuterol y/n", 100);
             writeAndWait("Timer for albuterol = y/n", 100);
             writeAndWait("Getting salene = y/n", 100);
