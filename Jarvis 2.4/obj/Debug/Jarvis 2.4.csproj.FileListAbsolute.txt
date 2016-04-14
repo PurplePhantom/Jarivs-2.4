@@ -1,0 +1,18 @@
+C:\repos\jarvis\Jarvis 2.0\Jarvis 2.4\Jarvis 2.4\bin\Debug\Jarvis 2.4.exe.config
+C:\repos\jarvis\Jarvis 2.0\Jarvis 2.4\Jarvis 2.4\bin\Debug\Jarvis 2.4.exe
+C:\repos\jarvis\Jarvis 2.0\Jarvis 2.4\Jarvis 2.4\bin\Debug\Jarvis 2.4.pdb
+C:\repos\jarvis\Jarvis 2.0\Jarvis 2.4\Jarvis 2.4\obj\Debug\Jarvis 2.4.csprojResolveAssemblyReference.cache
+C:\repos\jarvis\Jarvis 2.0\Jarvis 2.4\Jarvis 2.4\obj\Debug\Jarvis 2.4.exe
+C:\repos\jarvis\Jarvis 2.0\Jarvis 2.4\Jarvis 2.4\obj\Debug\Jarvis 2.4.pdb
+F:\programing\Jarvis\Jarvis 2.4\Jarvis 2.4\bin\Debug\Jarvis 2.4.exe.config
+F:\programing\Jarvis\Jarvis 2.4\Jarvis 2.4\obj\Debug\Jarvis 2.4.exe
+F:\programing\Jarvis\Jarvis 2.4\Jarvis 2.4\obj\Debug\Jarvis 2.4.pdb
+D:\programing\Jarvis\Jarvis 2.4\Jarvis 2.4\bin\Debug\Jarvis 2.4.exe.config
+D:\programing\Jarvis\Jarvis 2.4\Jarvis 2.4\obj\Debug\Jarvis 2.4.exe
+D:\programing\Jarvis\Jarvis 2.4\Jarvis 2.4\obj\Debug\Jarvis 2.4.pdb
+D:\programing\Jarvis\Jarvis 2.4\Jarvis 2.4\bin\Debug\Jarvis 2.4.exe
+D:\programing\Jarvis\Jarvis 2.4\Jarvis 2.4\bin\Debug\Jarvis 2.4.pdb
+D:\programing\Jarvis\Jarvis 2.4\Jarvis 2.4\obj\Debug\Jarvis 2.4.csprojResolveAssemblyReference.cache
+C:\Jacob\code\Jarvis 2.4\Jarvis 2.4\Jarvis 2.4\bin\Debug\Jarvis 2.4.exe.config
+C:\Jacob\code\Jarvis 2.4\Jarvis 2.4\Jarvis 2.4\obj\Debug\Jarvis 2.4.exe
+C:\Jacob\code\Jarvis 2.4\Jarvis 2.4\Jarvis 2.4\obj\Debug\Jarvis 2.4.pdb
